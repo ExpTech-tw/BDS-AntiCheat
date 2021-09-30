@@ -22,4 +22,4 @@
 * BDS 的 反作弊 插件 依賴 LiteXloader
 
 ## 貢獻者
-* whes1015 - 插件製作
+* whes1015 - 插件開發
